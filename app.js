@@ -386,6 +386,13 @@ function renderDomesticFeed(payload) {
     .map(
       (item) => `
         <article class="feed-card">
+          ${
+            item.previewImage
+              ? `<a class="feed-preview" href="${item.link || item.sourceUrl}" target="_blank" rel="noreferrer">
+                  <img src="${item.previewImage}" alt="${item.platform} ${item.keyword} 预览" loading="lazy" />
+                </a>`
+              : ""
+          }
           <div class="feed-meta">
             <span class="mini-tags"><span>${item.platform}</span></span>
             <span class="mini-tags"><span>${item.keyword}</span></span>
