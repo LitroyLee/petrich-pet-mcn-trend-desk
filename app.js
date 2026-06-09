@@ -367,6 +367,50 @@ function renderCreators() {
     .join("");
 }
 
+function renderDomesticFeed(payload) {
+  const grid = document.querySelector("#domesticFeed");
+  if (!grid) return;
+
+  if (!payload || !Array.isArray(payload.items) || payload.items.length === 0) {
+    grid.innerHTML = `
+      <div class="empty-state">
+        暂无国内平台采集结果。请先用 <strong>scripts/open_collection_browser.sh</strong> 登录专用采集浏览器，
+        再运行 <strong>scripts/collect_domestic_trends.sh</strong> 生成最新数据。
+      </div>
+    `;
+    return;
+  }
+
+  grid.innerHTML = payload.items
+    .slice(0, 12)
+    .map(
+      (item) => `
+        <article class="feed-card">
+          <div class="feed-meta">
+            <span class="mini-tags"><span>${item.platform}</span></span>
+            <span class="mini-tags"><span>${item.keyword}</span></span>
+            <span class="score">热度 ${item.heatScore}</span>
+          </div>
+          <h4>${item.title}</h4>
+          <p>${item.summary || item.rawText || "已采集到该条内容，需人工复核标题和互动数据。"}</p>
+          <p><strong>PetRich用法：</strong>${item.petrichUse}</p>
+          <a href="${item.link || item.sourceUrl}" target="_blank" rel="noreferrer">打开原内容 / 搜索页</a>
+        </article>
+      `
+    )
+    .join("");
+}
+
+async function loadDomesticFeed() {
+  try {
+    const response = await fetch("./data/latest-domestic.json", { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    renderDomesticFeed(await response.json());
+  } catch {
+    renderDomesticFeed(null);
+  }
+}
+
 function renderBusinesses() {
   document.querySelector("#businessGrid").innerHTML = businesses
     .map(
@@ -409,3 +453,4 @@ renderCreators();
 renderBusinesses();
 renderSources();
 renderSourceAudit();
+loadDomesticFeed();

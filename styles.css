@@ -391,6 +391,60 @@ main {
   margin-top: 14px;
 }
 
+.domestic-feed {
+  margin-top: 20px;
+}
+
+.domestic-feed-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.feed-card {
+  display: grid;
+  gap: 10px;
+  padding: 16px;
+  border: 1px solid rgba(29, 37, 40, 0.1);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.feed-card h4 {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.35;
+}
+
+.feed-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.feed-card a {
+  color: var(--green);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.feed-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.empty-state {
+  grid-column: 1 / -1;
+  padding: 18px;
+  border: 1px dashed rgba(29, 37, 40, 0.18);
+  border-radius: 8px;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.62);
+  line-height: 1.7;
+}
+
 .creator-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -627,6 +681,7 @@ footer strong {
 
   .signal-grid,
   .platform-map,
+  .domestic-feed-grid,
   .creator-list,
   .pipeline-grid,
   .source-audit-grid {
@@ -660,6 +715,7 @@ footer strong {
 
   .signal-grid,
   .platform-map,
+  .domestic-feed-grid,
   .creator-list,
   .business-grid,
   .pipeline-grid,

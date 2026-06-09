@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-09T17:12:26.488Z",
+  "timezone": "Asia/Shanghai",
+  "keywords": [
+    "宠物友好"
+  ],
+  "records": [
+    {
+      "platform": "小红书",
+      "platformId": "xiaohongshu",
+      "keyword": "宠物友好",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&source=web_search_result_notes",
+      "collectedAt": "2026-06-09T17:11:34.253Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
+      "items": []
+    },
+    {
+      "platform": "微博",
+      "platformId": "weibo",
+      "keyword": "宠物友好",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&Refer=index",
+      "collectedAt": "2026-06-09T17:11:50.905Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
+      "items": []
+    },
+    {
+      "platform": "抖音",
+      "platformId": "douyin",
+      "keyword": "宠物友好",
+      "url": "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD?type=general",
+      "collectedAt": "2026-06-09T17:12:08.621Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
+      "items": []
+    }
+  ],
+  "items": []
+}
