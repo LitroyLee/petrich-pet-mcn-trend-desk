@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PetRich 宠物MCN热点日报</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <img src="./assets/petrich-logo.png" alt="PetRich MCN" />
+        <div>
+          <p class="eyebrow">Daily Pet Trend Desk</p>
+          <h1>PetRich 宠物MCN热点日报</h1>
+        </div>
+      </div>
+      <div class="date-chip">
+        <span>数据日期</span>
+        <strong>2026.06.09</strong>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero-band">
+        <div class="hero-copy">
+          <p class="eyebrow">今日结论</p>
+          <h2>6 月 9 日的宠物内容机会，集中在“展会后转化、618囤货、考试季情绪陪伴、韩区宠物友好生活”四条线。</h2>
+          <p>
+            今日页面把公开热点信号转译成 PetRich 可执行动作：谁适合拍、拍什么结构、服务哪条业务线、怎么接品牌或活动。
+          </p>
+        </div>
+        <div class="pulse-board" aria-label="今日关键指标">
+          <div>
+            <span>12</span>
+            <p>今日信号</p>
+          </div>
+          <div>
+            <span>8</span>
+            <p>业务模块覆盖</p>
+          </div>
+          <div>
+            <span>4</span>
+            <p>优先拍摄方向</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-grid">
+        <div class="panel wide">
+          <div class="section-head">
+            <p class="eyebrow">Heat Radar</p>
+            <h3>今日热点信号榜</h3>
+          </div>
+          <div id="signalGrid" class="signal-grid"></div>
+        </div>
+        <aside class="panel action-panel">
+          <div class="section-head">
+            <p class="eyebrow">Shoot Now</p>
+            <h3>今天最该拍</h3>
+          </div>
+          <ol id="shootList" class="shoot-list"></ol>
+        </aside>
+      </section>
+
+      <section class="panel">
+        <div class="section-head row">
+          <div>
+            <p class="eyebrow">Platform Map</p>
+            <h3>平台与内容机会</h3>
+          </div>
+          <p class="note">数据源分为公开网页、行业报告、社区讨论与策略推断。</p>
+        </div>
+        <div id="platformMap" class="platform-map"></div>
+      </section>
+
+      <section class="section-grid creator-section">
+        <div class="panel creator-panel">
+          <div class="section-head">
+            <p class="eyebrow">Creator Decode</p>
+            <h3>账号 / 爆款拆解</h3>
+          </div>
+          <div id="creatorCards" class="creator-list"></div>
+        </div>
+        <div class="panel">
+          <div class="section-head">
+            <p class="eyebrow">Business Fit</p>
+            <h3>PetRich 八大业务映射</h3>
+          </div>
+          <div id="businessGrid" class="business-grid"></div>
+        </div>
+      </section>
+
+      <section class="panel pipeline">
+        <div class="section-head">
+          <p class="eyebrow">Next System</p>
+          <h3>后续每日爬取与更新思路</h3>
+        </div>
+        <div class="pipeline-grid">
+          <div>
+            <span>01</span>
+            <h4>信号采集</h4>
+            <p>微博热搜、微博关键词、小红书搜索词、抖音电商宠物类目、Instagram 韩区宠物账号、Reddit 韩国宠物讨论。</p>
+          </div>
+          <div>
+            <span>02</span>
+            <h4>内容评分</h4>
+            <p>按热度、复刻难度、品牌可接性、拍摄成本、动物安全、八大业务匹配度打分。</p>
+          </div>
+          <div>
+            <span>03</span>
+            <h4>产出日报</h4>
+            <p>每天自动生成“热点摘要、选题脚本、达人建议、商务机会、活动灵感、风险提醒”。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel source-audit">
+        <div class="section-head row">
+          <div>
+            <p class="eyebrow">Source Desk</p>
+            <h3>资料出处与核验入口</h3>
+          </div>
+          <p class="note">每条信息都保留对应出处；平台实时榜单、账号数据和社区讨论建议每日复核。</p>
+        </div>
+        <div id="sourceAudit" class="source-audit-grid"></div>
+      </section>
+    </main>
+
+    <footer>
+      <div>
+        <strong>PetRich Trend Desk</strong>
+        <span>内部参考｜来源已标注，平台实时榜单需每日复核</span>
+      </div>
+      <div id="sourceLinks" class="source-links"></div>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
