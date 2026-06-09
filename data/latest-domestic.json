@@ -1,9 +1,14 @@
 {
   "date": "2026-06-10",
-  "generatedAt": "2026-06-09T17:12:26.488Z",
+  "generatedAt": "2026-06-09T17:28:01.092Z",
   "timezone": "Asia/Shanghai",
   "keywords": [
-    "宠物友好"
+    "宠物友好",
+    "宠物博主",
+    "萌宠出道",
+    "宠物探店",
+    "宠物走秀",
+    "宠物直播带货"
   ],
   "records": [
     {
@@ -11,7 +16,52 @@
       "platformId": "xiaohongshu",
       "keyword": "宠物友好",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&source=web_search_result_notes",
-      "collectedAt": "2026-06-09T17:11:34.253Z",
+      "collectedAt": "2026-06-09T17:23:53.144Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
+      "items": []
+    },
+    {
+      "platform": "小红书",
+      "platformId": "xiaohongshu",
+      "keyword": "宠物博主",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&source=web_search_result_notes",
+      "collectedAt": "2026-06-09T17:24:13.733Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
+      "items": []
+    },
+    {
+      "platform": "小红书",
+      "platformId": "xiaohongshu",
+      "keyword": "萌宠出道",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&source=web_search_result_notes",
+      "collectedAt": "2026-06-09T17:24:26.776Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
+      "items": []
+    },
+    {
+      "platform": "小红书",
+      "platformId": "xiaohongshu",
+      "keyword": "宠物探店",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9%E6%8E%A2%E5%BA%97&source=web_search_result_notes",
+      "collectedAt": "2026-06-09T17:24:37.866Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
+      "items": []
+    },
+    {
+      "platform": "小红书",
+      "platformId": "xiaohongshu",
+      "keyword": "宠物走秀",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80&source=web_search_result_notes",
+      "collectedAt": "2026-06-09T17:24:48.876Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
+      "items": []
+    },
+    {
+      "platform": "小红书",
+      "platformId": "xiaohongshu",
+      "keyword": "宠物直播带货",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&source=web_search_result_notes",
+      "collectedAt": "2026-06-09T17:25:00.108Z",
       "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(keyword)}&source=web_search_result_notes`",
       "items": []
     },
@@ -20,7 +70,52 @@
       "platformId": "weibo",
       "keyword": "宠物友好",
       "url": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&Refer=index",
-      "collectedAt": "2026-06-09T17:11:50.905Z",
+      "collectedAt": "2026-06-09T17:25:11.190Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
+      "items": []
+    },
+    {
+      "platform": "微博",
+      "platformId": "weibo",
+      "keyword": "宠物博主",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&Refer=index",
+      "collectedAt": "2026-06-09T17:25:32.153Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
+      "items": []
+    },
+    {
+      "platform": "微博",
+      "platformId": "weibo",
+      "keyword": "萌宠出道",
+      "url": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&Refer=index",
+      "collectedAt": "2026-06-09T17:25:43.721Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
+      "items": []
+    },
+    {
+      "platform": "微博",
+      "platformId": "weibo",
+      "keyword": "宠物探店",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E6%8E%A2%E5%BA%97&Refer=index",
+      "collectedAt": "2026-06-09T17:25:55.273Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
+      "items": []
+    },
+    {
+      "platform": "微博",
+      "platformId": "weibo",
+      "keyword": "宠物走秀",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80&Refer=index",
+      "collectedAt": "2026-06-09T17:26:13.801Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
+      "items": []
+    },
+    {
+      "platform": "微博",
+      "platformId": "weibo",
+      "keyword": "宠物直播带货",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&Refer=index",
+      "collectedAt": "2026-06-09T17:26:37.148Z",
       "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://s.weibo.com/weibo?q=${encodeURIComponent(keyword)}&Refer=index`",
       "items": []
     },
@@ -29,7 +124,52 @@
       "platformId": "douyin",
       "keyword": "宠物友好",
       "url": "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD?type=general",
-      "collectedAt": "2026-06-09T17:12:08.621Z",
+      "collectedAt": "2026-06-09T17:26:55.768Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
+      "items": []
+    },
+    {
+      "platform": "抖音",
+      "platformId": "douyin",
+      "keyword": "宠物博主",
+      "url": "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB?type=general",
+      "collectedAt": "2026-06-09T17:27:08.810Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
+      "items": []
+    },
+    {
+      "platform": "抖音",
+      "platformId": "douyin",
+      "keyword": "萌宠出道",
+      "url": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93?type=general",
+      "collectedAt": "2026-06-09T17:27:19.165Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
+      "items": []
+    },
+    {
+      "platform": "抖音",
+      "platformId": "douyin",
+      "keyword": "宠物探店",
+      "url": "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9%E6%8E%A2%E5%BA%97?type=general",
+      "collectedAt": "2026-06-09T17:27:29.770Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
+      "items": []
+    },
+    {
+      "platform": "抖音",
+      "platformId": "douyin",
+      "keyword": "宠物走秀",
+      "url": "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80?type=general",
+      "collectedAt": "2026-06-09T17:27:40.175Z",
+      "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
+      "items": []
+    },
+    {
+      "platform": "抖音",
+      "platformId": "douyin",
+      "keyword": "宠物直播带货",
+      "url": "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7?type=general",
+      "collectedAt": "2026-06-09T17:27:50.567Z",
       "error": "Attempting to serialize unexpected value at position \"def.url\": (keyword) => `https://www.douyin.com/search/${encodeURIComponent(keyword)}?type=general`",
       "items": []
     }
