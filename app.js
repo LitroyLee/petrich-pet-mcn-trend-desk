@@ -133,26 +133,26 @@ const signals = [
   },
 ];
 
-const shoots = [
+const shootFallbacks = [
   {
-    title: "《它也陪我高考》情绪短片",
-    body: "宠物在门口等考生、回家扑抱、考后一起散步。低成本、高情绪、适合矩阵账号同步发。",
-    source: sources[6],
+    title: "微博实时宠物争议：先做事实核验，再做态度型内容",
+    body: "优先抓当天热搜、城市事件、宠物友好争议和动物保护事件。适合做短评、科普、评论区互动，不碰未经证实细节。",
+    source: { label: "微博宠物实时搜索", url: "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9" },
   },
   {
-    title: "广州潮宠展后选品清单",
-    body: "把品牌、达人、场景拆成“能拍/能卖/能办活动”三列，商务可以直接跟进。",
-    source: sources[0],
+    title: "小红书宠物种草：抓首图、标题和评论区痛点",
+    body: "优先看宠物用品测评、养宠避坑、宠物友好探店、带宠出行。适合转成清单、避坑和真实测评。",
+    source: { label: "小红书宠物搜索", url: "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%A0%E7%89%A9" },
   },
   {
-    title: "韩系宠物穿搭 Lookbook",
-    body: "小型犬、猫、宠物推车、轻奢配饰、人宠同色系，服务宠物模特经纪与线下活动。",
-    source: sources[3],
+    title: "抖音宠物视频：抓可复刻动作和前三秒钩子",
+    body: "优先看萌宠挑战、直播切片、测评对比、剧情反转。适合矩阵账号快速复刻。",
+    source: { label: "抖音宠物搜索", url: "https://www.douyin.com/search/%E5%AE%A0%E7%89%A9?type=general" },
   },
   {
-    title: "618养宠不踩雷直播脚本",
-    body: "用猫砂、驱虫、主粮、智能设备四个品类做“真实家庭场景测评”。",
-    source: sources[2],
+    title: "优质账号池：沉淀博主栏目，而不是只追单条爆文",
+    body: "每天把高频出现的宠物博主、品牌号和垂类账号纳入候选池，后续按互动率、内容结构和商业适配度复盘。",
+    source: { label: "PetRich 账号池", url: "#creatorCards" },
   },
 ];
 
@@ -299,15 +299,40 @@ function renderSourceRow(sourceOrSources) {
   `;
 }
 
-function renderSignals() {
+function tagClass(platform) {
+  if (platform === "微博") return "weibo";
+  if (platform === "小红书") return "xhs";
+  if (platform === "抖音") return "domestic";
+  return "domestic";
+}
+
+function buildDynamicSignals(payload) {
+  const items = Array.isArray(payload?.items) ? payload.items : [];
+  if (!items.length) return signals;
+  return items.slice(0, 6).map((item) => ({
+    platform: item.platform,
+    tag: tagClass(item.platform),
+    score: item.heatScore || "--",
+    title: item.title,
+    body: item.summary || item.rawText || "已采集到该条内容，建议点击来源复核互动和评论区。",
+    action: item.petrichUse || "转入每日选题池，人工复核后决定是否拍摄。",
+    source: {
+      label: `${item.platform} · ${item.keyword}`,
+      url: item.link || item.sourceUrl || "#domesticFeed",
+    },
+  }));
+}
+
+function renderSignals(payload) {
   const grid = document.querySelector("#signalGrid");
-  grid.innerHTML = signals
+  const signalItems = buildDynamicSignals(payload);
+  grid.innerHTML = signalItems
     .map(
       (item) => `
         <article class="signal-card">
           <div class="signal-top">
             <span class="tag ${item.tag}">${item.platform}</span>
-            <span class="score">机会 ${item.score}</span>
+            <span class="score">${typeof item.score === "number" ? "热度" : "机会"} ${item.score}</span>
           </div>
           <h4>${item.title}</h4>
           <p>${item.body}</p>
@@ -319,8 +344,109 @@ function renderSignals() {
     .join("");
 }
 
-function renderShoots() {
-  document.querySelector("#shootList").innerHTML = shoots
+const platformPriority = { 微博: 3, 小红书: 2, 抖音: 1 };
+
+function parseItemDate(item, payloadDate) {
+  const text = `${item.title || ""} ${item.summary || ""} ${item.rawText || ""}`;
+  const match = text.match(/(\d{1,2})月(\d{1,2})日/);
+  if (!match || !payloadDate) return null;
+  const year = payloadDate.split("-")[0];
+  const month = match[1].padStart(2, "0");
+  const day = match[2].padStart(2, "0");
+  const date = new Date(`${year}-${month}-${day}T00:00:00+08:00`);
+  return Number.isNaN(date.getTime()) ? null : date;
+}
+
+function isVisiblyOld(item, payloadDate) {
+  const text = `${item.title || ""} ${item.summary || ""} ${item.rawText || ""}`;
+  if (/20(1\d|2[0-5])年/.test(text)) return true;
+  const itemDate = parseItemDate(item, payloadDate);
+  if (!itemDate || !payloadDate) return false;
+  const currentDate = new Date(`${payloadDate}T00:00:00+08:00`);
+  const days = (currentDate - itemDate) / 86400000;
+  return days > 10;
+}
+
+function shootTheme(item) {
+  const text = `${item.keyword || ""} ${item.title || ""} ${item.summary || ""} ${item.rawText || ""}`;
+  if (/虐|受害|发声|救助|领养|弃养|保护|安全/.test(text)) {
+    return {
+      key: "safety",
+      title: "宠物安全事件：做事实核验型短内容",
+      body: `围绕“${item.title}”做平台态度、宠物安全提醒和评论区问答。只引用公开信息，不做未经证实的情绪放大。`,
+    };
+  }
+  if (/友好|餐厅|酒店|商场|探店|出行|露营/.test(text)) {
+    return {
+      key: "friendly",
+      title: "宠物友好现场：拍真实体验和评分表",
+      body: `把“${item.title}”拆成进店动线、服务态度、宠物设施、冲突点四格内容，适合探店号和商家合作。`,
+    };
+  }
+  if (/测评|猫砂|零食|主粮|鲜食|智能|驱虫|清洁|好物|避坑/.test(text)) {
+    return {
+      key: "review",
+      title: "养宠测评/避坑：拍真实家庭场景",
+      body: `从“${item.title}”延展成开箱、对比、宠物反应和评论区答疑，适合品牌种草与直播切片。`,
+    };
+  }
+  if (/穿搭|摄影|走秀|模特|出道|造型|大片/.test(text)) {
+    return {
+      key: "model",
+      title: "宠物模特内容：拍首图感强的造型栏目",
+      body: `围绕“${item.title}”做宠物穿搭、棚拍花絮、模特招募和线下走秀报名素材。`,
+    };
+  }
+  if (/直播|带货|618|货盘|清单/.test(text)) {
+    return {
+      key: "commerce",
+      title: "直播带货脚本：拍痛点清单和真实试用",
+      body: `将“${item.title}”转成短视频引流、直播间讲品和私域群话题，优先选择可复购宠物品类。`,
+    };
+  }
+  return {
+    key: `trend-${item.keyword || item.title}`,
+    title: `${item.keyword || item.platform}热点：先做一条低成本试拍`,
+    body: `把“${item.title}”做成15到30秒短视频或图文首图测试，看评论区能否继续拆成系列栏目。`,
+  };
+}
+
+function buildDynamicShoots(payload) {
+  const items = Array.isArray(payload?.items) ? payload.items : [];
+  if (!items.length) return shootFallbacks;
+
+  const freshItems = items.filter((item) => !isVisiblyOld(item, payload.date));
+  const candidates = (freshItems.length ? freshItems : items)
+    .slice()
+    .sort((a, b) => {
+      const platformDelta = (platformPriority[b.platform] || 0) - (platformPriority[a.platform] || 0);
+      if (platformDelta) return platformDelta;
+      return (b.heatScore || 0) - (a.heatScore || 0);
+    });
+
+  const usedThemes = new Set();
+  const shoots = [];
+  for (const item of candidates) {
+    const theme = shootTheme(item);
+    if (usedThemes.has(theme.key)) continue;
+    usedThemes.add(theme.key);
+    shoots.push({
+      ...theme,
+      source: {
+        label: `${item.platform} · ${item.keyword}`,
+        url: item.link || item.sourceUrl || "#domesticFeed",
+      },
+      platform: item.platform,
+      heatScore: item.heatScore,
+    });
+    if (shoots.length >= 4) break;
+  }
+  return shoots.length ? shoots : shootFallbacks;
+}
+
+function renderShoots(payload) {
+  const shootItems = buildDynamicShoots(payload);
+  document.querySelector("#shootList").innerHTML = shootItems
     .map(
       (item, index) => `
         <li>
@@ -328,6 +454,7 @@ function renderShoots() {
           <div>
             <h4>${item.title}</h4>
             <p>${item.body}</p>
+            ${item.platform ? `<p class="shoot-origin">${item.platform}优先级 · 热度 ${item.heatScore || "--"}</p>` : ""}
             ${renderSourceRow(item.source)}
           </div>
         </li>
@@ -350,8 +477,24 @@ function renderPlatforms() {
     .join("");
 }
 
-function renderCreators() {
-  document.querySelector("#creatorCards").innerHTML = creators
+function buildDynamicCreators(payload) {
+  const items = Array.isArray(payload?.items) ? payload.items : [];
+  return items
+    .filter((item) => /账号线索|粉丝[:：]|weibo\.com\/u\//.test(`${item.title || ""} ${item.summary || ""} ${item.link || ""}`))
+    .slice(0, 4)
+    .map((item) => ({
+      name: item.title,
+      format: `${item.platform} / 账号线索 / ${item.keyword}`,
+      meta: [item.platform, item.keyword, `热度 ${item.heatScore || "--"}`],
+      insight: item.summary || "搜索结果中出现的宠物垂类账号，建议人工复核主页内容、近期互动和视觉风格。",
+      use: "加入 PetRich 优质账号池，后续按内容栏目、首图风格、互动质量和商业适配度复盘，并抓取首图/视频封面给老板端直接浏览。",
+      source: { label: `${item.platform}主页/搜索结果`, url: item.link || item.sourceUrl || "#domesticFeed" },
+    }));
+}
+
+function renderCreators(payload) {
+  const creatorItems = [...buildDynamicCreators(payload), ...creators].slice(0, 12);
+  document.querySelector("#creatorCards").innerHTML = creatorItems
     .map(
       (creator) => `
         <article class="creator-card">
@@ -371,6 +514,9 @@ function renderDomesticFeed(payload) {
   const grid = document.querySelector("#domesticFeed");
   if (!grid) return;
   updateHero(payload);
+  renderShoots(payload);
+  renderSignals(payload);
+  renderCreators(payload);
 
   if (!payload || !Array.isArray(payload.items) || payload.items.length === 0) {
     grid.innerHTML = `
@@ -434,7 +580,7 @@ function updateHero(payload) {
   if (todaySignalCount) todaySignalCount.textContent = String(items.length || records.length || 0);
   if (heroTitle) {
     const platformText = platforms.length ? platforms.join("、") : "国内平台";
-    heroTitle.textContent = `${formatHeroDate(date)}宠物内容机会：已汇总${platformText}热点、平台截图和 PetRich 可执行动作。`;
+    heroTitle.textContent = `${formatHeroDate(date)}宠物内容机会：已汇总${platformText}实时热点、内容卡片预览和 PetRich 可执行动作。`;
   }
 }
 
