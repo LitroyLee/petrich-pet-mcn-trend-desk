@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generatedAt": "2026-06-09T17:46:46.107Z",
+  "generatedAt": "2026-06-10T01:30:45.254Z",
   "timezone": "Asia/Shanghai",
   "keywords": [
     "宠物友好",
@@ -20,7 +20,8 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/xiaohongshu-宠物友好.png",
       "screenshotRelative": "data/2026-06-10/screenshots/xiaohongshu-宠物友好.png",
-      "collectedAt": "2026-06-09T17:44:31.119Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物友好.png",
+      "collectedAt": "2026-06-10T01:28:09.301Z",
       "items": [
         {
           "title": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电",
@@ -72,8 +73,7 @@
           "heatScore": 50,
           "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物友好.png"
+      ]
     },
     {
       "platform": "小红书",
@@ -84,9 +84,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/xiaohongshu-宠物博主.png",
       "screenshotRelative": "data/2026-06-10/screenshots/xiaohongshu-宠物博主.png",
-      "collectedAt": "2026-06-09T17:44:39.320Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物博主.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物博主.png",
+      "collectedAt": "2026-06-10T01:28:22.065Z",
+      "items": []
     },
     {
       "platform": "小红书",
@@ -97,60 +97,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/xiaohongshu-萌宠出道.png",
       "screenshotRelative": "data/2026-06-10/screenshots/xiaohongshu-萌宠出道.png",
-      "collectedAt": "2026-06-09T17:44:45.168Z",
-      "items": [
-        {
-          "title": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_type=web_search_result_notes",
-          "rawText": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888 更多 关于我们 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品",
-          "keyword": "萌宠出道",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend",
-          "rawText": "发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888 更多 关于我们 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(",
-          "keyword": "萌宠出道",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "发现 RED 直播 发布 通知",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend",
-          "rawText": "发现 RED 直播 发布 通知",
-          "keyword": "萌宠出道",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com//beian.miit.gov.cn/",
-          "rawText": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "keyword": "萌宠出道",
-          "platform": "小红书",
-          "heatScore": 50,
-          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
-        },
-        {
-          "title": "© 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/search_result/?keyword=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&source=web_search_result_notes&type=51",
-          "rawText": "© 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "keyword": "萌宠出道",
-          "platform": "小红书",
-          "heatScore": 50,
-          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
-        }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-萌宠出道.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-萌宠出道.png",
+      "collectedAt": "2026-06-10T01:28:29.497Z",
+      "items": []
     },
     {
       "platform": "小红书",
@@ -161,60 +110,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/xiaohongshu-宠物探店.png",
       "screenshotRelative": "data/2026-06-10/screenshots/xiaohongshu-宠物探店.png",
-      "collectedAt": "2026-06-09T17:45:00.145Z",
-      "items": [
-        {
-          "title": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_type=web_search_result_notes",
-          "rawText": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888 更多 关于我们 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品",
-          "keyword": "宠物探店",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend",
-          "rawText": "发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888 更多 关于我们 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(",
-          "keyword": "宠物探店",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "发现 RED 直播 发布 通知",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend",
-          "rawText": "发现 RED 直播 发布 通知",
-          "keyword": "宠物探店",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com//beian.miit.gov.cn/",
-          "rawText": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "keyword": "宠物探店",
-          "platform": "小红书",
-          "heatScore": 50,
-          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
-        },
-        {
-          "title": "© 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/search_result/?keyword=%E5%AE%A0%E7%89%A9%E6%8E%A2%E5%BA%97&source=web_search_result_notes&type=51",
-          "rawText": "© 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "keyword": "宠物探店",
-          "platform": "小红书",
-          "heatScore": 50,
-          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
-        }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物探店.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物探店.png",
+      "collectedAt": "2026-06-10T01:28:36.820Z",
+      "items": []
     },
     {
       "platform": "小红书",
@@ -225,60 +123,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/xiaohongshu-宠物走秀.png",
       "screenshotRelative": "data/2026-06-10/screenshots/xiaohongshu-宠物走秀.png",
-      "collectedAt": "2026-06-09T17:45:09.659Z",
-      "items": [
-        {
-          "title": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_type=web_search_result_notes",
-          "rawText": "创作中心 业务合作 发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888 更多 关于我们 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品",
-          "keyword": "宠物走秀",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend",
-          "rawText": "发现 RED 直播 发布 通知 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888 更多 关于我们 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(",
-          "keyword": "宠物走秀",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "发现 RED 直播 发布 通知",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend",
-          "rawText": "发现 RED 直播 发布 通知",
-          "keyword": "宠物走秀",
-          "platform": "小红书",
-          "heatScore": 68,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com//beian.miit.gov.cn/",
-          "rawText": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 © 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "keyword": "宠物走秀",
-          "platform": "小红书",
-          "heatScore": 50,
-          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
-        },
-        {
-          "title": "© 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "summary": "",
-          "link": "https://www.xiaohongshu.com/search_result/?keyword=%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80&source=web_search_result_notes&type=51",
-          "rawText": "© 2014-2026 行吟信息科技（上海）有限公司 地址：上海市黄浦区马当路388号C座 电话：9501-3888",
-          "keyword": "宠物走秀",
-          "platform": "小红书",
-          "heatScore": 50,
-          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
-        }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物走秀.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物走秀.png",
+      "collectedAt": "2026-06-10T01:28:46.299Z",
+      "items": []
     },
     {
       "platform": "小红书",
@@ -289,9 +136,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/xiaohongshu-宠物直播带货.png",
       "screenshotRelative": "data/2026-06-10/screenshots/xiaohongshu-宠物直播带货.png",
-      "collectedAt": "2026-06-09T17:45:16.053Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物直播带货.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/xiaohongshu-宠物直播带货.png",
+      "collectedAt": "2026-06-10T01:28:54.916Z",
+      "items": []
     },
     {
       "platform": "微博",
@@ -302,60 +149,60 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/weibo-宠物友好.png",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物友好.png",
-      "collectedAt": "2026-06-09T17:45:21.456Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物友好.png",
+      "collectedAt": "2026-06-10T01:29:03.654Z",
       "items": [
         {
-          "title": "热门 c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 26 22 502",
+          "title": "热门 c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 30 26 577",
           "summary": "",
           "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 26 22 502",
+          "rawText": "热门 c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 30 26 577",
           "keyword": "宠物友好",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。"
         },
         {
-          "title": "c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 26 22 502",
+          "title": "c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 30 26 577",
           "summary": "",
           "link": "https://s.weibo.com//weibo.com/7280135211?refer_flag=1001030103_",
-          "rawText": "c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 26 22 502",
+          "rawText": "c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 30 26 577",
           "keyword": "宠物友好",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。"
         },
         {
-          "title": "热门 c 新周刊 06月09日 15:00 来自 iPhone 16 Pro #宠物友好餐厅怎么把消费者惹急了# “带毛孩子去宠物友好的海底捞，到底有多爽？",
-          "summary": "”2025年9月起，海底捞开始探索宠物友好模式，先后在旗下3家门店提供携宠接待宠物服务，不少养宠人纷纷前去打卡。 然而，不到一年，这项试点就画下了句号。 有人分析，海底捞结束此项试点，导火索可能是5月21日社交平台上一 ​ 展开c 15 41 315",
+          "title": "热门 c 哈布斯堡长脸 05月26日 21:13 来自 微博网页版 大型餐饮企业搞所谓宠物友好，实际上就是迎合少数顾客人宠同桌的特殊需求，在用餐安全、食品卫生上",
+          "summary": "当然这对于畜牧企业而言可能是一个商机，宠物不能跟人吃饭，人可以去跟宠物吃饭嘛。 既然让宠物上桌吃饭不符合多数民意，倒是可以在养殖场牛马猪狗的食槽边上加两张给人 ​ 展开c 1 6 99",
           "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 新周刊 06月09日 15:00 来自 iPhone 16 Pro #宠物友好餐厅怎么把消费者惹急了# “带毛孩子去宠物友好的海底捞，到底有多爽？”2025年9月起，海底捞开始探索宠物友好模式，先后在旗下3家门店提供携宠接待宠物服务，不少养宠人纷纷前去打卡。然而，不到一年，这项试点就画下了句号。有人分析，海底捞结束此项试点，导火索可能是5月21日社交平台上一 ​ 展开c 15 41 315",
+          "rawText": "热门 c 哈布斯堡长脸 05月26日 21:13 来自 微博网页版 大型餐饮企业搞所谓宠物友好，实际上就是迎合少数顾客人宠同桌的特殊需求，在用餐安全、食品卫生上霸凌多数顾客，迫使他们用脚投票。当然这对于畜牧企业而言可能是一个商机，宠物不能跟人吃饭，人可以去跟宠物吃饭嘛。既然让宠物上桌吃饭不符合多数民意，倒是可以在养殖场牛马猪狗的食槽边上加两张给人 ​ 展开c 1 6 99",
           "keyword": "宠物友好",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。"
         },
         {
-          "title": "c 新周刊 06月09日 15:00 来自 iPhone 16 Pro #宠物友好餐厅怎么把消费者惹急了# “带毛孩子去宠物友好的海底捞，到底有多爽？",
-          "summary": "”2025年9月起，海底捞开始探索宠物友好模式，先后在旗下3家门店提供携宠接待宠物服务，不少养宠人纷纷前去打卡。 然而，不到一年，这项试点就画下了句号。 有人分析，海底捞结束此项试点，导火索可能是5月21日社交平台上一 ​ 展开c 15 41 315",
-          "link": "https://s.weibo.com//weibo.com/1653689003?refer_flag=1001030103_",
-          "rawText": "c 新周刊 06月09日 15:00 来自 iPhone 16 Pro #宠物友好餐厅怎么把消费者惹急了# “带毛孩子去宠物友好的海底捞，到底有多爽？”2025年9月起，海底捞开始探索宠物友好模式，先后在旗下3家门店提供携宠接待宠物服务，不少养宠人纷纷前去打卡。然而，不到一年，这项试点就画下了句号。有人分析，海底捞结束此项试点，导火索可能是5月21日社交平台上一 ​ 展开c 15 41 315",
+          "title": "c 哈布斯堡长脸 05月26日 21:13 来自 微博网页版 大型餐饮企业搞所谓宠物友好，实际上就是迎合少数顾客人宠同桌的特殊需求，在用餐安全、食品卫生上霸凌多",
+          "summary": "当然这对于畜牧企业而言可能是一个商机，宠物不能跟人吃饭，人可以去跟宠物吃饭嘛。 既然让宠物上桌吃饭不符合多数民意，倒是可以在养殖场牛马猪狗的食槽边上加两张给人 ​ 展开c 1 6 99",
+          "link": "https://s.weibo.com//weibo.com/1800030034?refer_flag=1001030103_",
+          "rawText": "c 哈布斯堡长脸 05月26日 21:13 来自 微博网页版 大型餐饮企业搞所谓宠物友好，实际上就是迎合少数顾客人宠同桌的特殊需求，在用餐安全、食品卫生上霸凌多数顾客，迫使他们用脚投票。当然这对于畜牧企业而言可能是一个商机，宠物不能跟人吃饭，人可以去跟宠物吃饭嘛。既然让宠物上桌吃饭不符合多数民意，倒是可以在养殖场牛马猪狗的食槽边上加两张给人 ​ 展开c 1 6 99",
           "keyword": "宠物友好",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。"
         },
         {
-          "title": "热门 c 杰尼龟说 05月29日 09:23 来自 微博网页版 电梯也有宠物友好了 ​ 7 32 155",
+          "title": "热门 c 红崽崽需要正能量 06月09日 16:20 来自 iPhone 17 Pro Max 我前几天去重庆 还在感慨这个城市宠物友好 随处都能看见小狗 餐饮",
           "summary": "",
           "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 杰尼龟说 05月29日 09:23 来自 微博网页版 电梯也有宠物友好了 ​ 7 32 155",
+          "rawText": "热门 c 红崽崽需要正能量 06月09日 16:20 来自 iPhone 17 Pro Max 我前几天去重庆 还在感慨这个城市宠物友好 随处都能看见小狗 餐饮店也没有贴禁止宠物 商场也能看到小狗 有的人真的连畜生都不如 希望能赶紧立法 保护这些没法说话的毛孩子 附上我的可爱小ki宝 #山姆打包哥虐狗事件受害者发声# ​ 3 32 487",
           "keyword": "宠物友好",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物友好.png"
+      ]
     },
     {
       "platform": "微博",
@@ -366,7 +213,8 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/weibo-宠物博主.png",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物博主.png",
-      "collectedAt": "2026-06-09T17:45:30.684Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物博主.png",
+      "collectedAt": "2026-06-10T01:29:12.608Z",
       "items": [
         {
           "title": "宠物博主 粉丝：1.1万 关注",
@@ -380,9 +228,9 @@
         },
         {
           "title": "热门 c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎",
-          "summary": "一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。 一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 49 20 552",
+          "summary": "一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。 一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 66 20 796",
           "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去流浪。一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 49 20 552",
+          "rawText": "热门 c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去流浪。一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 66 20 796",
           "keyword": "宠物博主",
           "platform": "微博",
           "heatScore": 62,
@@ -390,36 +238,35 @@
         },
         {
           "title": "c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛",
-          "summary": "一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。 一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 49 20 552",
+          "summary": "一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。 一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 66 20 796",
           "link": "https://s.weibo.com//weibo.com/5785545197?refer_flag=1001030103_",
-          "rawText": "c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去流浪。一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 49 20 552",
+          "rawText": "c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去流浪。一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 66 20 796",
           "keyword": "宠物博主",
           "platform": "微博",
           "heatScore": 62,
           "petrichUse": "账号孵化/爆款打造：可做新人账号栏目测试和内容结构复盘。"
         },
         {
-          "title": "热门 c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 136",
+          "title": "热门 c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 139",
           "summary": "",
           "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 136",
+          "rawText": "热门 c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 139",
           "keyword": "宠物博主",
           "platform": "微博",
           "heatScore": 50,
           "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
         },
         {
-          "title": "c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 136",
+          "title": "c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 139",
           "summary": "",
           "link": "https://s.weibo.com//weibo.com/2282086682?refer_flag=1001030103_",
-          "rawText": "c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 136",
+          "rawText": "c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 139",
           "keyword": "宠物博主",
           "platform": "微博",
           "heatScore": 50,
           "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物博主.png"
+      ]
     },
     {
       "platform": "微博",
@@ -430,23 +277,24 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/weibo-萌宠出道.png",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-萌宠出道.png",
-      "collectedAt": "2026-06-09T17:45:35.882Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-萌宠出道.png",
+      "collectedAt": "2026-06-10T01:29:18.079Z",
       "items": [
         {
-          "title": "热门 c 种花家的兔子dream 05月28日 16:26 来自 微博视频号 蓝金长大后的样子 #萌宠出道计划 #蓝金渐层 #矮脚猫 L种花家的兔子dream的",
+          "title": "热门 c 刘通工作室 05月03日 04:26 来自 微博视频号 希望来世能再做你的毛孩子 #猫咪 #萌宠出道计划 #娱乐评论大赏#微博VC计划# L刘通工作室",
           "summary": "",
           "link": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 种花家的兔子dream 05月28日 16:26 来自 微博视频号 蓝金长大后的样子 #萌宠出道计划 #蓝金渐层 #矮脚猫 L种花家的兔子dream的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5303585312014356 12 9 292",
+          "rawText": "热门 c 刘通工作室 05月03日 04:26 来自 微博视频号 希望来世能再做你的毛孩子 #猫咪 #萌宠出道计划 #娱乐评论大赏#微博VC计划# L刘通工作室的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5290199182147617 11 8 392",
           "keyword": "萌宠出道",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。"
         },
         {
-          "title": "c 种花家的兔子dream 05月28日 16:26 来自 微博视频号 蓝金长大后的样子 #萌宠出道计划 #蓝金渐层 #矮脚猫 L种花家的兔子dream的微博视",
+          "title": "c 刘通工作室 05月03日 04:26 来自 微博视频号 希望来世能再做你的毛孩子 #猫咪 #萌宠出道计划 #娱乐评论大赏#微博VC计划# L刘通工作室的微博",
           "summary": "",
-          "link": "https://s.weibo.com//weibo.com/5503302952?refer_flag=1001030103_",
-          "rawText": "c 种花家的兔子dream 05月28日 16:26 来自 微博视频号 蓝金长大后的样子 #萌宠出道计划 #蓝金渐层 #矮脚猫 L种花家的兔子dream的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5303585312014356 12 9 292",
+          "link": "https://s.weibo.com//weibo.com/3294823830?refer_flag=1001030103_",
+          "rawText": "c 刘通工作室 05月03日 04:26 来自 微博视频号 希望来世能再做你的毛孩子 #猫咪 #萌宠出道计划 #娱乐评论大赏#微博VC计划# L刘通工作室的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5290199182147617 11 8 392",
           "keyword": "萌宠出道",
           "platform": "微博",
           "heatScore": 80,
@@ -474,16 +322,15 @@
         },
         {
           "title": "热门 c 蠢狗视频集 05月23日 14:09 来自 微博视频号 边境牧羊犬机智得令人咋舌，这般珍爱生命的汪星人实在讨喜！",
-          "summary": "！ #边牧# #萌宠出道计划# #狗狗# L蠢狗视频集的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5301738710958149 28 15 753",
+          "summary": "！ #边牧# #萌宠出道计划# #狗狗# L蠢狗视频集的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5301738710958149 28 15 760",
           "link": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 蠢狗视频集 05月23日 14:09 来自 微博视频号 边境牧羊犬机智得令人咋舌，这般珍爱生命的汪星人实在讨喜！！ #边牧# #萌宠出道计划# #狗狗# L蠢狗视频集的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5301738710958149 28 15 753",
+          "rawText": "热门 c 蠢狗视频集 05月23日 14:09 来自 微博视频号 边境牧羊犬机智得令人咋舌，这般珍爱生命的汪星人实在讨喜！！ #边牧# #萌宠出道计划# #狗狗# L蠢狗视频集的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5301738710958149 28 15 760",
           "keyword": "萌宠出道",
           "platform": "微博",
           "heatScore": 80,
           "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-萌宠出道.png"
+      ]
     },
     {
       "platform": "微博",
@@ -494,7 +341,8 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/weibo-宠物探店.png",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物探店.png",
-      "collectedAt": "2026-06-09T17:45:41.322Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物探店.png",
+      "collectedAt": "2026-06-10T01:29:23.533Z",
       "items": [
         {
           "title": "热门 c 王同洲不是同学 04月11日 12:36 来自 我和我的狗娃超话 又发现保定小店了，在居民区的小咖啡厅 跳槽Coffee，正合我意？",
@@ -546,8 +394,7 @@
           "heatScore": 62,
           "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物探店.png"
+      ]
     },
     {
       "platform": "微博",
@@ -558,7 +405,8 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/weibo-宠物走秀.png",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物走秀.png",
-      "collectedAt": "2026-06-09T17:45:46.824Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物走秀.png",
+      "collectedAt": "2026-06-10T01:29:29.077Z",
       "items": [
         {
           "title": "热门 c 不允许裤裤再难过 04月29日 21:12 家楼底下的大悦城办汉堡节 妈呀简直幸福 真的感觉这里的汉堡吃起来都是不一样的味道 感觉每个都好好吃 3号活",
@@ -610,8 +458,7 @@
           "heatScore": 80,
           "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物走秀.png"
+      ]
     },
     {
       "platform": "微博",
@@ -622,8 +469,29 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/weibo-宠物直播带货.png",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物直播带货.png",
-      "collectedAt": "2026-06-09T17:45:52.308Z",
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物直播带货.png",
+      "collectedAt": "2026-06-10T01:29:35.773Z",
       "items": [
+        {
+          "title": "热门 c 瞬时尽雪 05月10日 10:20 来自 星邱马上好运 最开始消费宠物价值的是下家两个人 带宠物直播卖货 因此被nj发现了宠物也有利用价值捞💰 当然",
+          "summary": "🤡👈🏻 ​ 10 25 379",
+          "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&xsort=hot&Refer=hotmore",
+          "rawText": "热门 c 瞬时尽雪 05月10日 10:20 来自 星邱马上好运 最开始消费宠物价值的是下家两个人 带宠物直播卖货 因此被nj发现了宠物也有利用价值捞💰 当然也少不了团⌚️的推波助澜 现在下家丝又装作很爱小动物的样子真的好搞笑啊 带着直播的时候怎么不心疼？🤡👈🏻 ​ 10 25 379",
+          "keyword": "宠物直播带货",
+          "platform": "微博",
+          "heatScore": 80,
+          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
+        },
+        {
+          "title": "c 瞬时尽雪 05月10日 10:20 来自 星邱马上好运 最开始消费宠物价值的是下家两个人 带宠物直播卖货 因此被nj发现了宠物也有利用价值捞💰 当然也少不",
+          "summary": "🤡👈🏻 ​ 10 25 379",
+          "link": "https://s.weibo.com//weibo.com/6337573307?refer_flag=1001030103_",
+          "rawText": "c 瞬时尽雪 05月10日 10:20 来自 星邱马上好运 最开始消费宠物价值的是下家两个人 带宠物直播卖货 因此被nj发现了宠物也有利用价值捞💰 当然也少不了团⌚️的推波助澜 现在下家丝又装作很爱小动物的样子真的好搞笑啊 带着直播的时候怎么不心疼？🤡👈🏻 ​ 10 25 379",
+          "keyword": "宠物直播带货",
+          "platform": "微博",
+          "heatScore": 80,
+          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
+        },
         {
           "title": "热门 c 魔兽世界 04月21日 16:53 来自 微博网页版 4月23日13:00-21:00 抖音官方直播带货开启，飞行幽灵虎返场+限时秒杀，锁定直播间享专",
           "summary": "坐骑、宠物低至5折！ 战网春日折扣季将于4月23日-4月29日同步上线！ 折扣信息如下： 〓〓“至暗之夜”正式服〓〓 -守护巨龙之心、暖日绒猫、魅力信使等大量坐骑5折优惠起！",
@@ -645,37 +513,16 @@
           "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
         },
         {
-          "title": "热门 c if711 02月28日 22:27 来自 iPhone客户端 我真的很无语，很喜欢的一个宠物博主，但是后面也不怎么发了，都发的日常什么的。",
-          "summary": "。 。 我真的无语为什么尽头都是直播带货啊。",
+          "title": "热门 c 东北知识局 06月04日 11:37 来自 微博网页版 辽宁地区的宠物产业你了解吗 辽宁地区凭借得天独厚的资源禀赋与多年的产业积淀，已坐稳全国宠物繁育",
+          "summary": "目前，每年向全国调运宠物犬猫超500万只，占全国市场份额的60%至70%以上。 省内充 ​ 展开c 2 7 16",
           "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c if711 02月28日 22:27 来自 iPhone客户端 我真的很无语，很喜欢的一个宠物博主，但是后面也不怎么发了，都发的日常什么的。。。我真的无语为什么尽头都是直播带货啊。。而且视频看起来家境很富裕。。我不明白。。之前很喜欢的一个小众吃播，刚有一两万粉丝就开始开直播带货。不是吧到底干嘛啊。。这种博主一律拉黑 ​ 转发 2 1",
+          "rawText": "热门 c 东北知识局 06月04日 11:37 来自 微博网页版 辽宁地区的宠物产业你了解吗 辽宁地区凭借得天独厚的资源禀赋与多年的产业积淀，已坐稳全国宠物繁育与流通大省的地位，构建了以宠物繁育、食品用品为核心，现代物流、直播电商、产业金融为支撑的全产业链发展格局。 目前，每年向全国调运宠物犬猫超500万只，占全国市场份额的60%至70%以上。 省内充 ​ 展开c 2 7 16",
           "keyword": "宠物直播带货",
           "platform": "微博",
           "heatScore": 80,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "c if711 02月28日 22:27 来自 iPhone客户端 我真的很无语，很喜欢的一个宠物博主，但是后面也不怎么发了，都发的日常什么的。",
-          "summary": "。 。 我真的无语为什么尽头都是直播带货啊。",
-          "link": "https://s.weibo.com//weibo.com/6623992596?refer_flag=1001030103_",
-          "rawText": "c if711 02月28日 22:27 来自 iPhone客户端 我真的很无语，很喜欢的一个宠物博主，但是后面也不怎么发了，都发的日常什么的。。。我真的无语为什么尽头都是直播带货啊。。而且视频看起来家境很富裕。。我不明白。。之前很喜欢的一个小众吃播，刚有一两万粉丝就开始开直播带货。不是吧到底干嘛啊。。这种博主一律拉黑 ​ 转发 2 1",
-          "keyword": "宠物直播带货",
-          "platform": "微博",
-          "heatScore": 80,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
-        },
-        {
-          "title": "热门 c 丽水网官方微博 03月21日 16:42 来自 微博视频号 #福建小伙扎根海盐打造鹦鹉王国# 近日，在浙江嘉兴海盐，来自福建的“90后”王荥，因热爱扎",
-          "summary": "他抓住宠物经济风口，开拓直播带货，去年销售额达50万元。 如今，他正计划打造“鹦鹉主题体验空间”，探索宠物经济新模式。 L十元在海盐的微博视频 ​​​ 播放视频 https://video.weibo.com/show?fid=1034:5278631753351238 4 2 11",
-          "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&xsort=hot&Refer=hotmore",
-          "rawText": "热门 c 丽水网官方微博 03月21日 16:42 来自 微博视频号 #福建小伙扎根海盐打造鹦鹉王国# 近日，在浙江嘉兴海盐，来自福建的“90后”王荥，因热爱扎根海盐，在望海街道养殖虎皮、玄凤等鹦鹉1000多对。他抓住宠物经济风口，开拓直播带货，去年销售额达50万元。如今，他正计划打造“鹦鹉主题体验空间”，探索宠物经济新模式。 L十元在海盐的微博视频 ​​​ 播放视频 https://video.weibo.com/show?fid=1034:5278631753351238 4 2 11",
-          "keyword": "宠物直播带货",
-          "platform": "微博",
-          "heatScore": 80,
-          "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。"
+          "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。"
         }
-      ],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/weibo-宠物直播带货.png"
+      ]
     },
     {
       "platform": "抖音",
@@ -686,9 +533,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/douyin-宠物友好.png",
       "screenshotRelative": "data/2026-06-10/screenshots/douyin-宠物友好.png",
-      "collectedAt": "2026-06-09T17:45:57.631Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物友好.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物友好.png",
+      "collectedAt": "2026-06-10T01:29:46.865Z",
+      "items": []
     },
     {
       "platform": "抖音",
@@ -699,9 +546,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/douyin-宠物博主.png",
       "screenshotRelative": "data/2026-06-10/screenshots/douyin-宠物博主.png",
-      "collectedAt": "2026-06-09T17:46:11.006Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物博主.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物博主.png",
+      "collectedAt": "2026-06-10T01:30:08.950Z",
+      "items": []
     },
     {
       "platform": "抖音",
@@ -712,9 +559,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/douyin-萌宠出道.png",
       "screenshotRelative": "data/2026-06-10/screenshots/douyin-萌宠出道.png",
-      "collectedAt": "2026-06-09T17:46:22.255Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-萌宠出道.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-萌宠出道.png",
+      "collectedAt": "2026-06-10T01:30:17.492Z",
+      "items": []
     },
     {
       "platform": "抖音",
@@ -725,9 +572,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/douyin-宠物探店.png",
       "screenshotRelative": "data/2026-06-10/screenshots/douyin-宠物探店.png",
-      "collectedAt": "2026-06-09T17:46:27.243Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物探店.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物探店.png",
+      "collectedAt": "2026-06-10T01:30:22.474Z",
+      "items": []
     },
     {
       "platform": "抖音",
@@ -738,9 +585,9 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/douyin-宠物走秀.png",
       "screenshotRelative": "data/2026-06-10/screenshots/douyin-宠物走秀.png",
-      "collectedAt": "2026-06-09T17:46:32.608Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物走秀.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物走秀.png",
+      "collectedAt": "2026-06-10T01:30:27.457Z",
+      "items": []
     },
     {
       "platform": "抖音",
@@ -751,67 +598,67 @@
       "maybeLogin": false,
       "screenshot": "/Users/litroylee/Documents/宠物MCN项目/data/2026-06-10/screenshots/douyin-宠物直播带货.png",
       "screenshotRelative": "data/2026-06-10/screenshots/douyin-宠物直播带货.png",
-      "collectedAt": "2026-06-09T17:46:37.512Z",
-      "items": [],
-      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物直播带货.png"
+      "siteScreenshotRelative": "data/screenshots/2026-06-10/douyin-宠物直播带货.png",
+      "collectedAt": "2026-06-10T01:30:34.783Z",
+      "items": []
     }
   ],
   "items": [
     {
       "title": "重庆是宠物友好城市",
-      "summary": "猫bot 06月09日 18: 502",
+      "summary": "猫bot 06月09日 18: 577",
       "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 26 22 502",
+      "rawText": "热门 c 猫bot 06月09日 18:38 重庆是宠物友好城市 ​ 30 26 577",
       "keyword": "宠物友好",
       "platform": "微博",
       "heatScore": 80,
       "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物友好.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物友好.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物友好.png",
+      "maybeLogin": false
     },
     {
-      "title": "#宠物友好餐厅怎么把消费者惹急了#",
-      "summary": "”2025年9月起，海底捞开始探索宠物友好模式，先后在旗下3家门店提供携宠接待宠物服务，不少养宠人纷纷前去打卡。 然而，不到一年，这项试点就画下了句号。 有人分析，海底捞结束此项试点，导火索可能是5月21日社交平台上一",
+      "title": "哈布斯堡长脸 05月26日 21:13 来自 微博网页版 大型餐饮企业搞所谓宠物友好，实际上就是迎合少数顾客人宠同桌的特殊需求，在用餐安全、食品",
+      "summary": "当然这对于畜牧企业而言可能是一个商机，宠物不能跟人吃饭，人可以去跟宠物吃饭嘛。 既然让宠物上桌吃饭不符合多数民意，倒是可以在养殖场牛马猪狗的食槽边上加两张给人",
       "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 新周刊 06月09日 15:00 来自 iPhone 16 Pro #宠物友好餐厅怎么把消费者惹急了# “带毛孩子去宠物友好的海底捞，到底有多爽？”2025年9月起，海底捞开始探索宠物友好模式，先后在旗下3家门店提供携宠接待宠物服务，不少养宠人纷纷前去打卡。然而，不到一年，这项试点就画下了句号。有人分析，海底捞结束此项试点，导火索可能是5月21日社交平台上一 ​ 展开c 15 41 315",
+      "rawText": "热门 c 哈布斯堡长脸 05月26日 21:13 来自 微博网页版 大型餐饮企业搞所谓宠物友好，实际上就是迎合少数顾客人宠同桌的特殊需求，在用餐安全、食品卫生上霸凌多数顾客，迫使他们用脚投票。当然这对于畜牧企业而言可能是一个商机，宠物不能跟人吃饭，人可以去跟宠物吃饭嘛。既然让宠物上桌吃饭不符合多数民意，倒是可以在养殖场牛马猪狗的食槽边上加两张给人 ​ 展开c 1 6 99",
       "keyword": "宠物友好",
       "platform": "微博",
       "heatScore": 80,
       "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物友好.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物友好.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物友好.png",
+      "maybeLogin": false
     },
     {
-      "title": "杰尼龟说 05月29日 09:23 来自 微博网页版 电梯也有宠物友好了 7 32 155",
-      "summary": "",
+      "title": "#山姆打包哥虐狗事件受害者发声#",
+      "summary": "红崽崽需要正能量 06月09日 16:20 来自 iPhone 17 Pro Max 我前几天去重庆 还在感慨这个城市宠物友好 随处都能看见小狗 餐饮店也没有贴禁止宠物 商场也能看到小狗 有的人真的连畜生都不如 希望能赶紧立法 保护这些没法说话的毛孩子 附上我的可爱小ki宝",
       "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 杰尼龟说 05月29日 09:23 来自 微博网页版 电梯也有宠物友好了 ​ 7 32 155",
+      "rawText": "热门 c 红崽崽需要正能量 06月09日 16:20 来自 iPhone 17 Pro Max 我前几天去重庆 还在感慨这个城市宠物友好 随处都能看见小狗 餐饮店也没有贴禁止宠物 商场也能看到小狗 有的人真的连畜生都不如 希望能赶紧立法 保护这些没法说话的毛孩子 附上我的可爱小ki宝 #山姆打包哥虐狗事件受害者发声# ​ 3 32 487",
       "keyword": "宠物友好",
       "platform": "微博",
       "heatScore": 80,
       "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物友好.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物友好.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物友好.png",
+      "maybeLogin": false
     },
     {
-      "title": "#萌宠出道计划 #",
-      "summary": "种花家的兔子dream 05月28日 16:26 来自 微博视频号 蓝金长大后的样子 蓝金渐层 #矮脚猫 L种花家的兔子dream的微博视频 https://video.weibo.com/show?fid=1034: 292",
+      "title": "#猫咪 #",
+      "summary": "刘通工作室 05月03日 04:26 来自 微博视频号 希望来世能再做你的毛孩子 萌宠出道计划 #娱乐评论大赏#微博VC计划# L刘通工作室的微博视频 https://video.weibo.com/show?fid=1034: 392",
       "link": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 种花家的兔子dream 05月28日 16:26 来自 微博视频号 蓝金长大后的样子 #萌宠出道计划 #蓝金渐层 #矮脚猫 L种花家的兔子dream的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5303585312014356 12 9 292",
+      "rawText": "热门 c 刘通工作室 05月03日 04:26 来自 微博视频号 希望来世能再做你的毛孩子 #猫咪 #萌宠出道计划 #娱乐评论大赏#微博VC计划# L刘通工作室的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5290199182147617 11 8 392",
       "keyword": "萌宠出道",
       "platform": "微博",
       "heatScore": 80,
       "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-萌宠出道.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-萌宠出道.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-萌宠出道.png",
+      "maybeLogin": false
     },
     {
       "title": "AI生成   剪映 L梅宫一的微博视频 https://video.weibo.com/show?fid=1034: 15",
@@ -824,8 +671,8 @@
       "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%AE%A0%E5%87%BA%E9%81%93&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-萌宠出道.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-萌宠出道.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-萌宠出道.png",
+      "maybeLogin": false
     },
     {
       "title": "2025年  Pro Max 一定要记录球球旺旺第一次“探店” 很后悔没有在拿下驾照后快点学会独立开车 感觉耽误了他们好多年的快乐 进到店里超级",
@@ -838,8 +685,8 @@
       "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E6%8E%A2%E5%BA%97&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物探店.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物探店.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物探店.png",
+      "maybeLogin": false
     },
     {
       "title": "#一分钟精选视频扶持计划#",
@@ -852,8 +699,22 @@
       "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物走秀.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物走秀.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物走秀.png",
+      "maybeLogin": false
+    },
+    {
+      "title": "带宠物直播卖货 因此被nj发现了宠物也有利用价值捞💰 当然也少不了团⌚️的推波助澜 现在下家丝又装作很爱小动物的样子真的好搞笑啊 带着直播的时",
+      "summary": "🤡👈🏻",
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&xsort=hot&Refer=hotmore",
+      "rawText": "热门 c 瞬时尽雪 05月10日 10:20 来自 星邱马上好运 最开始消费宠物价值的是下家两个人 带宠物直播卖货 因此被nj发现了宠物也有利用价值捞💰 当然也少不了团⌚️的推波助澜 现在下家丝又装作很爱小动物的样子真的好搞笑啊 带着直播的时候怎么不心疼？🤡👈🏻 ​ 10 25 379",
+      "keyword": "宠物直播带货",
+      "platform": "微博",
+      "heatScore": 80,
+      "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。",
+      "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&Refer=index",
+      "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物直播带货.png",
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物直播带货.png",
+      "maybeLogin": false
     },
     {
       "title": "抖音官方直播带货开启，飞行幽灵虎返场+限时秒杀，锁定直播间享专属优惠！ 坐骑、宠物低至5折！战网春日折扣季将于4月23日-4月29日同步上线！折",
@@ -866,36 +727,22 @@
       "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物直播带货.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物直播带货.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物直播带货.png",
+      "maybeLogin": false
     },
     {
-      "title": "转发 2 1",
-      "summary": "。 。 我真的无语为什么尽头都是直播带货啊。",
+      "title": "辽宁地区凭借得天独厚的资源禀赋与多年的产业积淀，已坐稳全国宠物繁育与流通大省的地位，构建了以宠物繁育、食品用品为核心，现代物流、直播电商、产业金",
+      "summary": "目前，每年向全国调运宠物犬猫超500万只，占全国市场份额的60%至70%以上。 省内充",
       "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c if711 02月28日 22:27 来自 iPhone客户端 我真的很无语，很喜欢的一个宠物博主，但是后面也不怎么发了，都发的日常什么的。。。我真的无语为什么尽头都是直播带货啊。。而且视频看起来家境很富裕。。我不明白。。之前很喜欢的一个小众吃播，刚有一两万粉丝就开始开直播带货。不是吧到底干嘛啊。。这种博主一律拉黑 ​ 转发 2 1",
+      "rawText": "热门 c 东北知识局 06月04日 11:37 来自 微博网页版 辽宁地区的宠物产业你了解吗 辽宁地区凭借得天独厚的资源禀赋与多年的产业积淀，已坐稳全国宠物繁育与流通大省的地位，构建了以宠物繁育、食品用品为核心，现代物流、直播电商、产业金融为支撑的全产业链发展格局。 目前，每年向全国调运宠物犬猫超500万只，占全国市场份额的60%至70%以上。 省内充 ​ 展开c 2 7 16",
       "keyword": "宠物直播带货",
       "platform": "微博",
       "heatScore": 80,
-      "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。",
+      "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物直播带货.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物直播带货.png"
-    },
-    {
-      "title": "#福建小伙扎根海盐打造鹦鹉王国#",
-      "summary": "他抓住宠物经济风口，开拓直播带货，去年销售额达50万元。 如今，他正计划打造“鹦鹉主题体验空间”，探索宠物经济新模式。 L十元在海盐的微博视频 https://video.weibo.com/show?fid=1034: 11",
-      "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 丽水网官方微博 03月21日 16:42 来自 微博视频号 #福建小伙扎根海盐打造鹦鹉王国# 近日，在浙江嘉兴海盐，来自福建的“90后”王荥，因热爱扎根海盐，在望海街道养殖虎皮、玄凤等鹦鹉1000多对。他抓住宠物经济风口，开拓直播带货，去年销售额达50万元。如今，他正计划打造“鹦鹉主题体验空间”，探索宠物经济新模式。 L十元在海盐的微博视频 ​​​ 播放视频 https://video.weibo.com/show?fid=1034:5278631753351238 4 2 11",
-      "keyword": "宠物直播带货",
-      "platform": "微博",
-      "heatScore": 80,
-      "petrichUse": "直播电商/品牌种草：可拆成测评脚本、直播货盘和私域群话题。",
-      "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7&Refer=index",
-      "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物直播带货.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物直播带货.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物直播带货.png",
+      "maybeLogin": false
     },
     {
       "title": "#张艺凡牵derder走秀#",
@@ -908,8 +755,8 @@
       "petrichUse": "宠物模特经纪：可转成宠物模特招募、穿搭大片和线下走秀活动。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物走秀.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物走秀.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物走秀.png",
+      "maybeLogin": false
     },
     {
       "title": "粉丝：1.1万 关注",
@@ -922,22 +769,22 @@
       "petrichUse": "账号孵化/爆款打造：可做新人账号栏目测试和内容结构复盘。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物博主.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物博主.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物博主.png",
+      "maybeLogin": false
     },
     {
       "title": "一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去",
       "summary": "一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。 一群本来就下等的反社会贱逼拿偶然发生的伤人给自",
       "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去流浪。一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 49 20 552",
+      "rawText": "热门 c 一个特别虚荣的人 06月09日 23:27 一群跟风逼见人养猫养狗当宠物博主，赚到钱还给他提供了情绪价值，见天的买些后院猫后院狗，到手发现猫和狗会拉屎会掉毛会体臭会拆家会抓人会咬人，放出去流浪。一群欠儿登见到流浪猫狗要展现出自己热爱小动物，拿手去摸，被抓被咬，回家上网开始壁垒。一群本来就下等的反社会贱逼拿偶然发生的伤人给自 ​ 展开c 66 20 796",
       "keyword": "宠物博主",
       "platform": "微博",
       "heatScore": 62,
       "petrichUse": "账号孵化/爆款打造：可做新人账号栏目测试和内容结构复盘。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物博主.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物博主.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物博主.png",
+      "maybeLogin": false
     },
     {
       "title": "汉堡好吃，这个我忘了叫什么的烤 转发 评论 11",
@@ -950,22 +797,22 @@
       "petrichUse": "线下活动/探店：可做宠物友好打分表、达人探店和商家合作包。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E6%8E%A2%E5%BA%97&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物探店.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物探店.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物探店.png",
+      "maybeLogin": false
     },
     {
       "title": "Pro Max 五岁啦逼仔，生日快乐",
-      "summary": "铁板烧鬼舞w 06月08日 21:25 来自 iPhone 136",
+      "summary": "铁板烧鬼舞w 06月08日 21:25 来自 iPhone  139",
       "link": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&xsort=hot&Refer=hotmore",
-      "rawText": "热门 c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 136",
+      "rawText": "热门 c 铁板烧鬼舞w 06月08日 21:25 来自 iPhone 17 Pro Max 五岁啦逼仔，生日快乐 ​ 1 8 139",
       "keyword": "宠物博主",
       "platform": "微博",
       "heatScore": 50,
       "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E5%8D%9A%E4%B8%BB&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物博主.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物博主.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物博主.png",
+      "maybeLogin": false
     },
     {
       "title": "家楼底下的大悦城办汉堡节 妈呀简直幸福 真的感觉这里的汉堡吃起来都是不一样的味道 感觉每个都好好吃 3号活动结束 一共有60个摊位 还有的是卖t",
@@ -978,8 +825,8 @@
       "petrichUse": "趋势观察：保留为每日选题池，等待人工复核后进入拍摄/商务跟进。",
       "sourceUrl": "https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E8%B5%B0%E7%A7%80&Refer=index",
       "screenshotRelative": "data/2026-06-10/screenshots/weibo-宠物走秀.png",
-      "maybeLogin": false,
-      "previewImage": "data/screenshots/2026-06-10/weibo-宠物走秀.png"
+      "previewImage": "data/screenshots/2026-06-10/weibo-宠物走秀.png",
+      "maybeLogin": false
     }
   ]
 }
