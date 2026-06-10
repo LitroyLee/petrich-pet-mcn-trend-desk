@@ -370,6 +370,7 @@ function renderCreators() {
 function renderDomesticFeed(payload) {
   const grid = document.querySelector("#domesticFeed");
   if (!grid) return;
+  updateHero(payload);
 
   if (!payload || !Array.isArray(payload.items) || payload.items.length === 0) {
     grid.innerHTML = `
@@ -406,6 +407,35 @@ function renderDomesticFeed(payload) {
       `
     )
     .join("");
+}
+
+function formatCnDate(dateString) {
+  if (!dateString) return "未生成";
+  const [year, month, day] = dateString.split("-");
+  return `${year}.${month}.${day}`;
+}
+
+function formatHeroDate(dateString) {
+  if (!dateString) return "今日";
+  const [, month, day] = dateString.split("-");
+  return `${Number(month)} 月 ${Number(day)} 日`;
+}
+
+function updateHero(payload) {
+  const dataDate = document.querySelector("#dataDate");
+  const heroTitle = document.querySelector("#heroTitle");
+  const todaySignalCount = document.querySelector("#todaySignalCount");
+  const items = Array.isArray(payload?.items) ? payload.items : [];
+  const records = Array.isArray(payload?.records) ? payload.records : [];
+  const date = payload?.date;
+  const platforms = [...new Set(items.map((item) => item.platform).filter(Boolean))];
+
+  if (dataDate) dataDate.textContent = formatCnDate(date);
+  if (todaySignalCount) todaySignalCount.textContent = String(items.length || records.length || 0);
+  if (heroTitle) {
+    const platformText = platforms.length ? platforms.join("、") : "国内平台";
+    heroTitle.textContent = `${formatHeroDate(date)}宠物内容机会：已汇总${platformText}热点、平台截图和 PetRich 可执行动作。`;
+  }
 }
 
 async function loadDomesticFeed() {
